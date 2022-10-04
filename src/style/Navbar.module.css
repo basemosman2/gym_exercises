@@ -8,7 +8,7 @@
 .homeLink {
     text-decoration:none;
     color: var(--Main-Navbar-color);
-    border-bottom: 3px solid var(--Main-Navbar-color);
+    border-bottom: 3px solid var(--border-color);
 }
 
 .exerciseLink {

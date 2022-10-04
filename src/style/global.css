@@ -1,3 +1,14 @@
 :root{
     --Main-Navbar-color: #3a1212;
+    --border-color: #ff2625;
 }
+
+/* 
+.heroBannerBtn{
+    background-color:#ff2625 !important;
+}
+
+.heroBannerBtn:hover{
+    background: none !important;
+    color: #ff2625;
+} */

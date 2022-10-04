@@ -58,7 +58,7 @@
         right: 40px;
         top: 0px;
         width: 700px;
-        height: 900px;
+        height: 800px;
         margin-top: -330px;
     
     }
@@ -121,10 +121,10 @@
         .right-arrow {
         position: static !important;
         }
-    
+
         .hero-banner-img {
-        display: none;
-        }
+            display: none;
+            }
     
         .exercise-card {
         width: 320px;
